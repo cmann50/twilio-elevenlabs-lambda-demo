@@ -1,0 +1,15 @@
+loguru
+twilio
+elevenlabs
+pydub
+asyncio
+boto3==1.28.57
+aws-xray-sdk
+langchain
+openai
+pgvector
+tiktoken
+aws-psycopg2
+mangum
+fastapi==0.103.2
+uvicorn
